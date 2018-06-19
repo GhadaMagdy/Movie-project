@@ -1,5 +1,7 @@
 """This module descripes movie variables and methods"""
 import webbrowser
+
+
 class Movie():
     """this class provides way to store movies"""
     def __init__(self, movie_title, movie_image, trailer_youtube):
